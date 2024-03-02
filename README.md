@@ -29,3 +29,4 @@ Podatki są rozliczane raz w tygodniu, automatycznie.
 ## 3. Gwarancja ciągłości działania rynku
 
 Na rynku poza firmami zarządzanymi przez użytkowników, działają również “firmy państwowe” (automaty sterowane przez serwer). Firmy państwowe mają własny budżet, który może być powiększony pieniędzmi z podatków.
+

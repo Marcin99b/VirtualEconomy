@@ -30,3 +30,18 @@ Podatki są rozliczane raz w tygodniu, automatycznie.
 
 Na rynku poza firmami zarządzanymi przez użytkowników, działają również “firmy państwowe” (automaty sterowane przez serwer). Firmy państwowe mają własny budżet, który może być powiększony pieniędzmi z podatków.
 
+# 2. Kamienie milowe
+
+## 1. Podstawy podstaw
+
+- [ ]  Użytkownik może się zarejestrować, zalogować
+- [ ]  Użytkownik może stworzyć wirtualną firmę
+- [ ]  Firma dostaje startowy budżet
+- [ ]  Można robić przelewy między firmami
+
+## 2. Start produkcji surowców
+
+- [ ]  Firmy mogą posiadać budynki produkcyjne
+- [ ]  Budynki produkcyjne po uruchomieniu pracy, dostarczają do magazynu firmowego surowce
+- [ ]  Produkcja surowców wymaga posiadania określonych surowców w magazynie (produkcja zjada surowce)
+- [ ]  Czas pracowników kosztuje
